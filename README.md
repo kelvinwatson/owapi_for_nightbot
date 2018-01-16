@@ -13,7 +13,7 @@ REGION: `eu`, `kr`, or `us`
 
 *Example:*
 
-`http://owapifornightbot.herokuapp.com/Dad-12262/us/comprank`
+`http://owapifornightbot.herokuapp.com/Klone-11603/us/comprank`
 
 *Result:*
 
