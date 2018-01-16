@@ -1,5 +1,5 @@
 # Overwatch API to get your SR
-This is an API layer written over [SunDwarf](https://github.com/SunDwarf)'s [OWAPI](https://owapi.net) to retrieve your Overwatch competitive SR (skill rating).
+This is a Node.js API layer written over [SunDwarf](https://github.com/SunDwarf)'s [OWAPI](https://owapi.net) to retrieve your Overwatch competitive SR (skill rating).
 
 ## Usage
 
